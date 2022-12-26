@@ -1,17 +1,29 @@
-### Hi there 👋
-shin_ro
-
-<!--
-**roshini-it20/roshini-it20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👩‍💻 Hi, I am ROSHINI R S👋
+* 👩‍🎓 I am currently pursuing B Tech Information Technology @Bannari Amman Institute of Technology
+* 📫 You can reach here, <br>
+      - roshini.it20@bitsathy.ac.in<br>
+      - roseroshini794@gmail.com<br>
+      - [Github Account](https://github.com/roshini-it20)<br>
+      - [LinkedIn Account](https://www.linkedin.com/in/roshini-r-s-852967200/)<br>
+      - [Medium blog](https://medium.com/@ROSHINIRS)<br>
+## About
+I am an enthusiastic young student gazing for a challenging position in a progressive organization to utilize my technical and analytical skills for the growth of the organization as well as to enhance my knowledge on automation and Machine learning.I have developed some projects with the knowledge I gained from the university and on self surf. Take a glance at my repository for some of my works.
+## Achievements
+- 40+ problems solved in Leetcode
+- 4800+ Hackos in HackerRank
+- Smart India Hackathon | Qualified finalist
+- UX Design & Branding - TrusTrace - 2022 | Secured 3rd place and won Rs.1000.
+- 3rd ICCRET - IIRM - 2021 | Secured 2nd Best paper award.
+## Areas of Interest
+- Machine Learning
+- Front end development UI/UX Design
+- OOPS Concept
+## Skills
+- Python, C++ (Intermediate)
+- Java (Basic)
+## Tools
+- Jupyter notebook
+- Google Colab
+- Figma
+- Canva
+- Android Studio
