@@ -9,6 +9,7 @@
 ## About
 I am an enthusiastic young student gazing for a challenging position in a progressive organization to utilize my technical and analytical skills for the growth of the organization as well as to enhance my knowledge on automation and Machine learning.I have developed some projects with the knowledge I gained from the university and on self surf. Take a glance at my repository for some of my works.
 ## Achievements
+- Problem Solver - Silver Badge | Codechef
 - Daily Streak - Silver Badge | CodeChef
 - 40+ problems solved | Leetcode
 - 4800+ Hackos | HackerRank
