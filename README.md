@@ -7,10 +7,10 @@
       &nbsp;- [LinkedIn Account](https://www.linkedin.com/in/roshini-r-s-852967200/)<br>
       &nbsp;- [Medium blog](https://medium.com/@ROSHINIRS)<br>
 ## About
-I am an enthusiastic young student gazing for a challenging position in a progressive organization to utilize my technical and analytical skills for the growth of the organization as well as to enhance my knowledge on automation and Machine learning.I have developed some projects with the knowledge I gained from the university and on self surf. Take a glance at my repository for some of my works.
+I am an enthusiastic young student gazing for a challenging position in a progressive organization to utilize my technical and analytical skills for the growth of the organization as well as to enhance my knowledge on automation and Web development. I have developed some projects with the knowledge I gained from the university and on self surf. Take a glance at my repository for some of my works.
 ## Achievements
 - Problem Solver - Silver Badge | Codechef
-- Daily Streak - Silver Badge | CodeChef
+- Daily Streak - Gold Badge | CodeChef
 - 40+ problems solved | Leetcode
 - 4800+ Hackos | HackerRank
 - Smart India Hackathon | Qualified finalist
@@ -21,10 +21,12 @@ I am an enthusiastic young student gazing for a challenging position in a progre
 - Front end development UI/UX Design
 - OOPS Concept
 ## Skills
-- Python, C (Intermediate)
-- C++, Java (Basic)
+- Python | C (Intermediate)
+- C++ | Java (Basic)
+- HTML | CSS | React | PHP (Basic)
 ## Tools
 - Jupyter notebook
 - Google Colab
+- VS Code
 - Figma
 - Canva
