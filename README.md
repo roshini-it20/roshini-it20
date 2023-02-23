@@ -9,13 +9,15 @@
 ## About
 I am an enthusiastic young student gazing for a challenging position in a progressive organization to utilize my technical and analytical skills for the growth of the organization as well as to enhance my knowledge on automation and Web development. I have developed some projects with the knowledge I gained from the university and on self surf. Take a glance at my repository for some of my works.
 ## Achievements
-- Problem Solver - Silver Badge | Codechef
-- Daily Streak - Gold Badge | CodeChef
-- 40+ problems solved | Leetcode
-- 4800+ Hackos | HackerRank
-- Smart India Hackathon | Qualified finalist
-- UX Design & Branding - TrusTrace - 2022 | Secured 3rd place and won Rs.1000.
-- 3rd ICCRET - IIRM - 2021 | Secured 2nd Best paper award.
+- Problem Solver - Silver Badge | Codechef.
+- Daily Streak - Gold Badge | CodeChef.
+- 40+ problems solved | Leetcode.
+- 4800+ Hackos | HackerRank.
+- BITS' HACK'22 - BIT - FEB 2022 | Secured 1st place.
+- Smart India Hackathon - AUG 2022| Qualified finalist.
+- UX Design & Branding - TrusTrace - MAY 2022 | Secured 3rd place.
+- 3rd ICCRET - IIRM - OCT 2021 | Secured 2nd Best paper award.
+- Project Presentation - Arcathon - | Qualified finalist.
 ## Areas of Interest
 - Machine Learning
 - Front end development UI/UX Design
@@ -23,7 +25,8 @@ I am an enthusiastic young student gazing for a challenging position in a progre
 ## Skills
 - Python | C (Intermediate)
 - C++ | Java (Basic)
-- HTML | CSS | React | PHP (Basic)
+- HTML | CSS (Basic)
+- React | PHP (Basic)
 ## Tools
 - Jupyter notebook
 - Google Colab
