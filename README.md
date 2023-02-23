@@ -11,12 +11,12 @@ I am an enthusiastic young student gazing for a challenging position in a progre
 ## Achievements
 - Problem Solver - Silver Badge | Codechef.
 - Daily Streak - Gold Badge | CodeChef.
-- 40+ problems solved | Leetcode.
+- 50+ problems solved | Leetcode.
 - 4800+ Hackos | HackerRank.
 - BITS' HACK'22 - BIT - FEB 2022 | Secured 1st place.
 - Smart India Hackathon - AUG 2022| Qualified finalist.
 - UX Design & Branding - TrusTrace - MAY 2022 | Secured 3rd place.
-- 3rd ICCRET - IIRM - OCT 2021 | Secured 2nd Best paper award.
+- 3rd ICCRET - IIRM - OCT 2021 | Secured Best paper award.
 - Project Presentation - Arcathon - | Qualified finalist.
 ## Areas of Interest
 - Machine Learning
